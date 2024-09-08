@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
    <a href="https://facebook.com/topu.khan.63">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+      <img src="https://img.shields.io/badge/Facebook-%231DA1F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
    </a>
 
    <img  align="right" src="https://komarev.com/ghpvc/?username=topukhan&label=Profile%20views&color=green&style=flat" alt="me-shaon" />
