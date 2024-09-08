@@ -17,7 +17,7 @@
    </a>
 
    <img  align="right" src="https://komarev.com/ghpvc/?username=topukhan&label=Profile%20views&color=green&style=flat" alt="me-shaon" />
-   <a align="right" href="https://github.com/ferasbbm?tab=followers">
-      <img  align="right" src="https://img.shields.io/github/followers/me-shaon?username=me-shaon&label=Followers" alt="me-shaon" />
+   <a align="right" href="https://github.com/topukhan?tab=followers">
+      <img  align="right" src="https://img.shields.io/github/followers/topukhan?username=topukhan&label=Followers" alt="topukhan" />
    </a>
 </div>
