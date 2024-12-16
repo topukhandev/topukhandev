@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/Facebook-%231DA1F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
    </a>
 
-   <img  align="right" src="https://komarev.com/ghpvc/?username=topukhan&label=Profile%20views&color=green&style=flat" alt="me-shaon" />
+   <img  align="right" src="https://komarev.com/ghpvc/?username=topukhandev&label=Profile%20views&color=green&style=flat" alt="topukhan" />
    <a align="right" href="https://github.com/topukhan?tab=followers">
       <img  align="right" src="https://img.shields.io/github/followers/topukhan?username=topukhan&label=Followers" alt="topukhan" />
    </a>
